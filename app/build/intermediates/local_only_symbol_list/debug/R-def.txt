@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color white
+drawable black_shadow
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable normal_key
+drawable pressed_key
+drawable pressed_normal_selector
+id button
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.PianoApp
+style key_1_blue
