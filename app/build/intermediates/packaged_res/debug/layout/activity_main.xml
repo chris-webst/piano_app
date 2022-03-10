@@ -8,7 +8,7 @@
     android:paddingRight="16dp"
     android:paddingLeft="16dp"
     android:gravity="top|center"
-    android:background="#000">
+    android:background="#0B0B3E">
 
     <HorizontalScrollView
 
@@ -23,8 +23,7 @@
             <Button
 
                 android:id="@+id/button"
-                style="@style/key_1_blue"
-                tools:ignore="SpeakableTextPresentCheck">
+                style="@style/key_1_blue">
 
             </Button>
 

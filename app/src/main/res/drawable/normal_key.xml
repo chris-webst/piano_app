@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Creates a standard ("white") blue key with the shadow
+    beneath it. Firstly, the rounded shadow rectangle needs
+    to be set, then another rectangle is layered over it –
+    that's the blue one. The "bottom" argument determines
+    how much visible the grey rectangle (shadow) will be
+    (how much the blue rectangle will be shortened).
+-->
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:drawable="@drawable/black_shadow"></item>
+    <item android:drawable="@drawable/black_shadow"/>
 
-    <item android:bottom="10dp">
+    <item android:bottom="8dp">
 
         <shape android:shape="rectangle">
 
-            <corners android:radius="5dp"></corners>
-            <solid android:color="#155399"></solid>
+            <corners android:radius="8dp" />
+            <solid android:color="#155399" />
 
         </shape>
 

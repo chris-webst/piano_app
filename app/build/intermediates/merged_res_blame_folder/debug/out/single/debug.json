@@ -36,12 +36,12 @@
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_pressed_key.xml.flat",
@@ -64,12 +64,12 @@
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",

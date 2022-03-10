@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!-- Presets. -->
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,23 +10,25 @@
     android:paddingRight="16dp"
     android:paddingLeft="16dp"
     android:gravity="top|center"
-    android:background="#000">
+    android:background="#0B0B3E">
 
+    <!-- Creation of the horizontal view. -->
     <HorizontalScrollView
 
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
+        <!-- Creation of layout (to be able to add buttons etc?). -->
         <RelativeLayout
 
             android:layout_width="wrap_content"
             android:layout_height="match_parent">
 
+            <!-- Space for the first normal key. -->
             <Button
 
                 android:id="@+id/button"
-                style="@style/key_1_blue"
-                tools:ignore="SpeakableTextPresentCheck">
+                style="@style/key_1_blue">
 
             </Button>
 
