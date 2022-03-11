@@ -9,7 +9,7 @@
         <entry key="app/src/main/res/drawable/press_key.xml" value="0.1575" />
         <entry key="app/src/main/res/drawable/pressed_key.xml" value="0.1575" />
         <entry key="app/src/main/res/drawable/pressed_normal_selector.xml" value="0.1575" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>

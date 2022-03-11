@@ -4,7 +4,7 @@
     This is used to determine where to switch
     between the "normal key" and "pressed key" style,
     where "normal key" style is default (for "pressed
-    key" style the button needs to be pressed)
+    key" style the button needs to be pressed).
 -->
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
 
