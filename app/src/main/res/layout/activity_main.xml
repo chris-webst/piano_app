@@ -43,9 +43,9 @@
             <Button
 
                 android:id="@+id/button_2"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button">
 
             </Button>
 
@@ -61,441 +61,454 @@
             <Button
 
                 android:id="@+id/button_4"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_3"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_3">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_5"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_4"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_4">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_6"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_5"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_5">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_7"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_6"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_6">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_8"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_7"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_7">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_9"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_8"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_8">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_10"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_9"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_9">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_11"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_10"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_10">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_12"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_11"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_11">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_13"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_12"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_12">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_14"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_13"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_13">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_15"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_14"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_14">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_16"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_15"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_15">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_17"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_16"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_16">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_18"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_17"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_17">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_19"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_18"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_18">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_20"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_19"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_19">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_21"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_20"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_20">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_22"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_21"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_21">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_23"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_22"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_22">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_24"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_23"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_23">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_25"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_24"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_24">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_26"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_25"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_25">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_27"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_26"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_26">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_28"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_27"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_27">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_29"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_28"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_28">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_30"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_29"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_29">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_31"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_30"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_30">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_32"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_31"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_31">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_33"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_32"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_32">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_34"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_33"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_33">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_35"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_34"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_34">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_36"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_35"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_35">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_37"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_36"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_36">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_38"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_37"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_37">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_39"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_38"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_38">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_40"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_39"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_39">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_41"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_40"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_40">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_42"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_41"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_41">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_43"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_42"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_42">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_44"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_43"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_43">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_45"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_44"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_44">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_46"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_45"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_45">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_47"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_46"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_46">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_48"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_47"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_47">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_49"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_48"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_48">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_50"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_49"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_49">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_51"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_50"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_50">
 
             </Button>
 
             <Button
 
                 android:id="@+id/button_52"
+                style="@style/common_key"
                 android:layout_marginLeft="3dp"
-                android:layout_toRightOf="@id/button_51"
-                style="@style/common_key">
+                android:layout_toRightOf="@id/button_51">
+
+            </Button>
+
+            <!--
+                A list of 36 black keys.
+
+                Could be coded in some form of a cycle?
+            -->
+            <Button
+
+                android:id="@+id/black1"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button">
 
             </Button>
 
@@ -510,418 +523,418 @@
             <TextView
                 android:id="@+id/a0"
                 style="@style/description_style"
-                android:text="A0"
                 android:layout_toLeftOf="@id/button_2"
                 android:stateListAnimator="@null"
+                android:text="A0"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/b0"
                 style="@style/description_style"
-                android:text="B0"
                 android:layout_toLeftOf="@id/button_3"
                 android:stateListAnimator="@null"
+                android:text="B0"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/c1"
                 style="@style/description_style"
-                android:text="C1"
                 android:layout_toLeftOf="@id/button_4"
                 android:stateListAnimator="@null"
+                android:text="C1"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/d1"
                 style="@style/description_style"
-                android:text="D1"
                 android:layout_toLeftOf="@id/button_5"
                 android:stateListAnimator="@null"
+                android:text="D1"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/e1"
                 style="@style/description_style"
-                android:text="E1"
                 android:layout_toLeftOf="@id/button_6"
                 android:stateListAnimator="@null"
+                android:text="E1"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/f1"
                 style="@style/description_style"
-                android:text="F1"
                 android:layout_toLeftOf="@id/button_7"
                 android:stateListAnimator="@null"
+                android:text="F1"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/g1"
                 style="@style/description_style"
-                android:text="G1"
                 android:layout_toLeftOf="@id/button_8"
                 android:stateListAnimator="@null"
+                android:text="G1"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/a1"
                 style="@style/description_style"
-                android:text="A1"
                 android:layout_toLeftOf="@id/button_9"
                 android:stateListAnimator="@null"
+                android:text="A1"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/b1"
                 style="@style/description_style"
-                android:text="B1"
                 android:layout_toLeftOf="@id/button_10"
                 android:stateListAnimator="@null"
+                android:text="B1"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/c2"
                 style="@style/description_style"
-                android:text="C2"
                 android:layout_toLeftOf="@id/button_11"
                 android:stateListAnimator="@null"
+                android:text="C2"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/d2"
                 style="@style/description_style"
-                android:text="D2"
                 android:layout_toLeftOf="@id/button_12"
                 android:stateListAnimator="@null"
+                android:text="D2"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/e2"
                 style="@style/description_style"
-                android:text="E2"
                 android:layout_toLeftOf="@id/button_13"
                 android:stateListAnimator="@null"
+                android:text="E2"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/f2"
                 style="@style/description_style"
-                android:text="F2"
                 android:layout_toLeftOf="@id/button_14"
                 android:stateListAnimator="@null"
+                android:text="F2"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/g2"
                 style="@style/description_style"
-                android:text="G2"
                 android:layout_toLeftOf="@id/button_15"
                 android:stateListAnimator="@null"
+                android:text="G2"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/a2"
                 style="@style/description_style"
-                android:text="A2"
                 android:layout_toLeftOf="@id/button_16"
                 android:stateListAnimator="@null"
+                android:text="A2"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/b2"
                 style="@style/description_style"
-                android:text="B2"
                 android:layout_toLeftOf="@id/button_17"
                 android:stateListAnimator="@null"
+                android:text="B2"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/c3"
                 style="@style/description_style"
-                android:text="C3"
                 android:layout_toLeftOf="@id/button_18"
                 android:stateListAnimator="@null"
+                android:text="C3"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/d3"
                 style="@style/description_style"
-                android:text="D3"
                 android:layout_toLeftOf="@id/button_19"
                 android:stateListAnimator="@null"
+                android:text="D3"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/e3"
                 style="@style/description_style"
-                android:text="E3"
                 android:layout_toLeftOf="@id/button_20"
                 android:stateListAnimator="@null"
+                android:text="E3"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/f3"
                 style="@style/description_style"
-                android:text="F3"
                 android:layout_toLeftOf="@id/button_21"
                 android:stateListAnimator="@null"
+                android:text="F3"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/g3"
                 style="@style/description_style"
-                android:text="G3"
                 android:layout_toLeftOf="@id/button_22"
                 android:stateListAnimator="@null"
+                android:text="G3"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/a3"
                 style="@style/description_style"
-                android:text="A3"
                 android:layout_toLeftOf="@id/button_23"
                 android:stateListAnimator="@null"
+                android:text="A3"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/b3"
                 style="@style/description_style"
-                android:text="B3"
                 android:layout_toLeftOf="@id/button_24"
                 android:stateListAnimator="@null"
+                android:text="B3"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/c4"
                 style="@style/description_style"
-                android:text="C4"
                 android:layout_toLeftOf="@id/button_25"
                 android:stateListAnimator="@null"
+                android:text="C4"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/d4"
                 style="@style/description_style"
-                android:text="D4"
                 android:layout_toLeftOf="@id/button_26"
                 android:stateListAnimator="@null"
+                android:text="D4"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/e4"
                 style="@style/description_style"
-                android:text="E4"
                 android:layout_toLeftOf="@id/button_27"
                 android:stateListAnimator="@null"
+                android:text="E4"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/f4"
                 style="@style/description_style"
-                android:text="F4"
                 android:layout_toLeftOf="@id/button_28"
                 android:stateListAnimator="@null"
+                android:text="F4"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/g4"
                 style="@style/description_style"
-                android:text="G4"
                 android:layout_toLeftOf="@id/button_29"
                 android:stateListAnimator="@null"
+                android:text="G4"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/a4"
                 style="@style/description_style"
-                android:text="A4"
                 android:layout_toLeftOf="@id/button_30"
                 android:stateListAnimator="@null"
+                android:text="A4"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/b4"
                 style="@style/description_style"
-                android:text="B4"
                 android:layout_toLeftOf="@id/button_31"
                 android:stateListAnimator="@null"
+                android:text="B4"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/c5"
                 style="@style/description_style"
-                android:text="C5"
                 android:layout_toLeftOf="@id/button_32"
                 android:stateListAnimator="@null"
+                android:text="C5"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/d5"
                 style="@style/description_style"
-                android:text="D5"
                 android:layout_toLeftOf="@id/button_33"
                 android:stateListAnimator="@null"
+                android:text="D5"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/e5"
                 style="@style/description_style"
-                android:text="E5"
                 android:layout_toLeftOf="@id/button_34"
                 android:stateListAnimator="@null"
+                android:text="E5"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/f5"
                 style="@style/description_style"
-                android:text="F5"
                 android:layout_toLeftOf="@id/button_35"
                 android:stateListAnimator="@null"
+                android:text="F5"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/g5"
                 style="@style/description_style"
-                android:text="G5"
                 android:layout_toLeftOf="@id/button_36"
                 android:stateListAnimator="@null"
+                android:text="G5"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/a5"
                 style="@style/description_style"
-                android:text="A5"
                 android:layout_toLeftOf="@id/button_37"
                 android:stateListAnimator="@null"
+                android:text="A5"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/b5"
                 style="@style/description_style"
-                android:text="B5"
                 android:layout_toLeftOf="@id/button_38"
                 android:stateListAnimator="@null"
+                android:text="B5"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/c6"
                 style="@style/description_style"
-                android:text="C6"
                 android:layout_toLeftOf="@id/button_39"
                 android:stateListAnimator="@null"
+                android:text="C6"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/d6"
                 style="@style/description_style"
-                android:text="D6"
                 android:layout_toLeftOf="@id/button_40"
                 android:stateListAnimator="@null"
+                android:text="D6"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/e6"
                 style="@style/description_style"
-                android:text="E6"
                 android:layout_toLeftOf="@id/button_41"
                 android:stateListAnimator="@null"
+                android:text="E6"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/f6"
                 style="@style/description_style"
-                android:text="F6"
                 android:layout_toLeftOf="@id/button_42"
                 android:stateListAnimator="@null"
+                android:text="F6"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/g6"
                 style="@style/description_style"
-                android:text="G6"
                 android:layout_toLeftOf="@id/button_43"
                 android:stateListAnimator="@null"
+                android:text="G6"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/a6"
                 style="@style/description_style"
-                android:text="A6"
                 android:layout_toLeftOf="@id/button_44"
                 android:stateListAnimator="@null"
+                android:text="A6"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/b6"
                 style="@style/description_style"
-                android:text="B6"
                 android:layout_toLeftOf="@id/button_45"
                 android:stateListAnimator="@null"
+                android:text="B6"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/c7"
                 style="@style/description_style"
-                android:text="C7"
                 android:layout_toLeftOf="@id/button_46"
                 android:stateListAnimator="@null"
+                android:text="C7"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/d7"
                 style="@style/description_style"
-                android:text="D7"
                 android:layout_toLeftOf="@id/button_47"
                 android:stateListAnimator="@null"
+                android:text="D7"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/e7"
                 style="@style/description_style"
-                android:text="E7"
                 android:layout_toLeftOf="@id/button_48"
                 android:stateListAnimator="@null"
+                android:text="E7"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/f7"
                 style="@style/description_style"
-                android:text="F7"
                 android:layout_toLeftOf="@id/button_49"
                 android:stateListAnimator="@null"
+                android:text="F7"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/g7"
                 style="@style/description_style"
-                android:text="G7"
                 android:layout_toLeftOf="@id/button_50"
                 android:stateListAnimator="@null"
+                android:text="G7"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/a7"
                 style="@style/description_style"
-                android:text="A7"
                 android:layout_toLeftOf="@id/button_51"
                 android:stateListAnimator="@null"
+                android:text="A7"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/b7"
                 style="@style/description_style"
-                android:text="B7"
                 android:layout_toLeftOf="@id/button_52"
                 android:stateListAnimator="@null"
+                android:text="B7"
                 android:textIsSelectable="false" />
 
             <TextView
                 android:id="@+id/c8"
                 style="@style/description_style"
-                android:text="C8"
                 android:layout_toRightOf="@id/button_51"
-                android:stateListAnimator="@null"
                 android:paddingLeft="11dp"
+                android:stateListAnimator="@null"
+                android:text="C8"
                 android:textIsSelectable="false" />
 
         </RelativeLayout>
