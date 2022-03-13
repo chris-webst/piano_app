@@ -4,12 +4,12 @@
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/ic_launcher_background.xml"
-    },
-    {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_pressed_black_key.xml.flat",
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/pressed_black_key.xml"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_pressed_normal_selector.xml.flat",

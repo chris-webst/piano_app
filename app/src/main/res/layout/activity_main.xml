@@ -16,8 +16,11 @@
     <!-- Creation of the horizontal view. -->
     <HorizontalScrollView
 
+        android:id="@+id/scrollView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true">
 
         <!-- Creation of layout (to be able to add buttons etc?). -->
         <RelativeLayout
@@ -509,6 +512,286 @@
                 android:id="@+id/black1"
                 style="@style/black_key"
                 android:layout_toRightOf="@id/button">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black2"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_3">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black3"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_4">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black4"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_6">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black5"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_7">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black6"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_8">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black7"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_10">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black8"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_11">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black9"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_13">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black10"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_14">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black11"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_15">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black12"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_17">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black13"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_18">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black14"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_20">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black15"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_21">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black16"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_22">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black17"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_24">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black18"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_25">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black19"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_27">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black20"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_28">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black21"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_29">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black22"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_31">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black23"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_32">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black24"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_34">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black25"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_35">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black26"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_36">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black27"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_38">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black28"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_39">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black29"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_41">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black30"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_42">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black31"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_43">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black32"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_45">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black33"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_46">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black34"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_48">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black35"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_49">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/black36"
+                style="@style/black_key"
+                android:layout_toRightOf="@id/button_50">
 
             </Button>
 
