@@ -21,6 +21,24 @@ import android.widget.HorizontalScrollView;
  * This app uses SoundPool to handle audio files because it's
  * simple and there's no processing of large files. The alternative
  * to SoundPool is MediaPlayer.
+ *
+ * Sources of piano tones come from
+ * https://theremin.music.uiowa.edu/MISpiano.html
+ * however, they're edited.
+ *
+ * Resources to the button designs:
+ * <a target="_blank" href="https://icons8.com/icon/11686/arrow">
+ * Arrow</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+ *
+ * <a target="_blank" href="https://icons8.com/icon/101955/music-record">
+ * Music Record</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+ *
+ * <a target="_blank" href="https://icons8.com/icon/36333/add-record">
+ * Add Record</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+ *
+ * <a target="_blank" href="https://icons8.com/icon/398/play">
+ * Play</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+ *
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 

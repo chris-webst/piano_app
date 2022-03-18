@@ -6,12 +6,16 @@ color dark
 color primary
 color white
 dimen layer_padding
+drawable arrow_left
+drawable arrow_right
 drawable black_key_selector
 drawable black_shadow
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable microphone
 drawable normal_black_key
 drawable normal_key
+drawable play
 drawable pressed_black_key
 drawable pressed_key
 drawable pressed_normal_selector
@@ -156,6 +160,10 @@ id g4
 id g5
 id g6
 id g7
+id left_arrow
+id play
+id record
+id right_arrow
 id scrollView
 layout activity_main
 mipmap ic_launcher

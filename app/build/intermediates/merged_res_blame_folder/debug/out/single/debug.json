@@ -8,8 +8,8 @@
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/pressed_black_key.xml"
     },
     {
-        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_play.png.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/play.png"
     },
     {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_pressed_normal_selector.xml.flat",
@@ -20,8 +20,8 @@
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/black_shadow.xml"
     },
     {
-        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_microphone.png.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/microphone.png"
     },
     {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_normal_key.xml.flat",
@@ -40,36 +40,16 @@
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/white_shadow.xml"
     },
     {
-        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
-    },
-    {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_pressed_key.xml.flat",
-        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/pressed_key.xml"
     },
     {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_black_key_selector.xml.flat",
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/black_key_selector.xml"
-    },
-    {
-        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
-        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
@@ -84,11 +64,47 @@
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
         "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_pressed_key.xml.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/pressed_key.xml"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_arrow_right.png.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/arrow_right.png"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/drawable_arrow_left.png.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/drawable/arrow_left.png"
+    },
+    {
+        "merged": "/Users/karolinapodivinska/Desktop/piano_app/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/karolinapodivinska/Desktop/piano_app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     }
 ]
