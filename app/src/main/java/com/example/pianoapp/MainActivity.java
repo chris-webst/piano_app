@@ -23,7 +23,7 @@ import android.widget.HorizontalScrollView;
  * to SoundPool is MediaPlayer.
  *
  * Sources of piano tones come from
- * https://theremin.music.uiowa.edu/MISpiano.html
+ * https://freesound.org/people/TEDAgame/packs/25405/?page=4#sound
  * however, they're edited.
  *
  * Resources to the button designs:
