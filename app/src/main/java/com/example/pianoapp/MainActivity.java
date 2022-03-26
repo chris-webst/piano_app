@@ -1,5 +1,7 @@
 package com.example.pianoapp;
 
+import android.content.Intent;
+import android.media.SoundPool;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -41,6 +43,15 @@ import android.widget.HorizontalScrollView;
  *
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+
+    // The functionality for playing notes.
+    private SoundPool soundpool;
+
+    // Buttons of the top navigation bar.
+    private Button right_arrow;
+    private Button left_arrow;
+    private Button record;
+    private Button play;
 
     // The view in which the keyboard will be displayed in?
     private HorizontalScrollView scrollView;
@@ -135,17 +146,59 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button butt87;
     private Button butt88;
 
+    public MainActivity(SoundPool soundpool) {
+        this.soundpool = soundpool;
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // Switch into the testing activity preview.
+        gototestActivity();
+
         // Initialize the scroll view here.
         scrollView = findViewById(R.id.scrollView);
 
         // Initialize the keys with this method.
         initializeAllKeys();
+
+        // Initialize the soundpool.
+        soundpool = new SoundPool.Builder()
+                .setMaxStreams(6)
+                .build();
+
+        // butt1 = soundpool.load(this, R.raw.butt1, 1);
+
+        // Initialize the buttons of the navigation bar.
+        left_arrow = (Button) findViewById(R.id.left_arrow);
+        left_arrow.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                // Defines the speed and direction of scrolling.
+                scrollView.scrollTo((int) scrollView.getScrollX() -30,
+                        (int) scrollView.getScrollX() );
+
+            }
+        });
+
+        right_arrow = (Button) findViewById(R.id.right_arrow);
+        right_arrow.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                // Defines the speed and direction of scrolling.
+                scrollView.scrollTo((int) scrollView.getScrollX() +30,
+                        (int) scrollView.getScrollY() );
+
+            }
+        });
+
+        record = (Button) findViewById(R.id.record);
+        play = (Button) findViewById(R.id.play);
 
     }
 
@@ -350,4 +403,21 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
 
     }
+
+    public void record(View view){
+
+    }
+
+    public void play(View view){
+
+    }
+
+    // Function used to switch to the testing activity preview.
+    void gototestActivity(){
+
+        Intent intent = new Intent(MainActivity.this, Test.class);
+        startActivity(intent);
+
+    }
+
 }

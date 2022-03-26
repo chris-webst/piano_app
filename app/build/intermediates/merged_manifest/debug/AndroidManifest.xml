@@ -10,6 +10,7 @@
 
     <application
         android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:extractNativeLibs="false"
         android:icon="@mipmap/ic_launcher"
@@ -18,15 +19,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.PianoApp" >
-
-        <!--
-            These android keyboard is set to be hidden
-            and the screen to be horizontally (landscape) oriented.
-        -->
         <activity
             android:name="com.example.pianoapp.MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:exported="true"
             android:screenOrientation="landscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -34,6 +29,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.pianoapp.Test" >
+        </activity>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.pianoapp.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
 
         <meta-data
             android:name="android.arch.lifecycle.VERSION"
