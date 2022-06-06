@@ -4,3 +4,5 @@
 
 <noindent><blockquote>
                         <b>May 2022 update:</b> maturita (high school final exams) pause + compatibility problems (maybe it'll be necessary to stop the project)</blockquote><br>
+<noindent><blockquote>
+                        <b>7 June 2022 update:</b> a new branch for solving compatibility issues(<code>compatibility</code> branch) was created. If the problems are solved, the branch will be merged with the <code>main</code> branch.</blockquote><br>
