@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Creates a blue pressed key – without shadow, solid
+    color and radius needs to be the same as the color
+    of a normal key so the effect of pressing
+    (the shadow disappears) could be done.
+-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+
+        <shape android:shape="rectangle">
+
+            <solid android:color="#155399" />
+            <corners android:radius="8dp" />
+
+        </shape>
+
+    </item>
+
+</layer-list>
