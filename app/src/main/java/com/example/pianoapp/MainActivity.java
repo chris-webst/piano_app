@@ -147,7 +147,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button butt87;
     private Button butt88;
 
+
     public MainActivity(SoundPool soundpool) {
+
         this.soundpool = soundpool;
     }
 
@@ -396,14 +398,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
 
     }
-
-    /**public void record(View view){
-
-    }
-
-    public void play(View view){
-
-    }**/
 
     // Function used to switch to the testing activity preview.
     void testActivity(){
